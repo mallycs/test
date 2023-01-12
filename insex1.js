@@ -10,3 +10,4 @@ delete myFamaly.girl
 console.log(myFamaly)
 myFamaly['Dog'] = 'Kurt'
 console.log(myFamaly)
+navigator
